@@ -35,6 +35,7 @@ python3 .\brute-force-dirb.py (sitedesejado) .\wordlist.txt
 
 ## 📂 Estrutura do Projeto
 .
+
 ├── brute-force-dirb.py
 
 ├── wordlist.txt
